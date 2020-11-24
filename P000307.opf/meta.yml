@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W22323
   title: ཡིག་དྲུག་གི་འཁོར་ལོའི་ཁུངས་དང་བསྐོར་ཚུལ་གྱི་གནད་དམིགས་པ་བྱ་ཚུལ་ཕན་ཡོན་དང་བཅས་པ
-  volume: ''
+  volume:
+    6fd9ad339ca2417091c75b7f6a351e03:
+      image_group_id: I1PD36249
+      title: Volume 1 of bcom ldan 'das dpal rnam par snang mdzad kyi bum chog
+      volume_number: 1
+      total_pages: 42
   author: ''
+ebook_metadata:
+  title: ཡིག་དྲུག་གི་འཁོར་ལོའི་ཁུངས་དང་བསྐོར་ཚུལ་གྱི་གནད་དམིགས་པ་བྱ་ཚུལ་ཕན་ཡོན་དང་བཅས་པ
+  author: ''
+  sku: P000307
+  cover: cover.jpg
+  layers:
+  - pagination
